@@ -23,6 +23,17 @@ form {
   text-align: center;
 }
 
+<<<<<<< HEAD
+=======
+.image {
+  height: 20rem;
+}
+
+.image img {
+  height: 100%;
+}
+
+>>>>>>> eca9ef7 (DesignUser&ProductRelationship)
 .main-header {
   width: 100%;
   height: 3.5rem;
